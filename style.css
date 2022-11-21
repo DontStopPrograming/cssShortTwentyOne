@@ -1,0 +1,6 @@
+#btnClick {
+    background: linear-gradient(red,black);
+    background-position: center;
+    height: 100px;
+    width: 100px;
+}
